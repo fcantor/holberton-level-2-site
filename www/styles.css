@@ -1,7 +1,6 @@
 /* NAVIGATION */
 
 .index {
-	padding: 20px;
 	color: #FFAF3A;
 	text-shadow: 2px 2px #FF9400;
 }
@@ -49,8 +48,6 @@ q{
   line-height: 1;
 }
 
-
-
 main {
 	display: flex;
 	flex-direction: row;
@@ -68,10 +65,6 @@ figure {
 	text-align: center;
 	font-size: smaller;
 	padding: 20px;
-}
-
-.content-layout {
-
 }
 
 .content-1 {
@@ -105,7 +98,6 @@ footer {
 /* GAMES-DEVS */
 
 .games-devs {
-	padding: 20px;
 	color: #00A287;
 	text-shadow: 2px 2px #006B59;
 }
@@ -117,7 +109,6 @@ footer {
 /* BUILD-INDIE */
 
 .build-indie {
-	padding: 20px;
 	color: #FF6038;
 	text-shadow: 2px 2px #A63E24;
 }
@@ -125,7 +116,6 @@ footer {
 /* CHATTER */
 
 .tweets {
-	padding: 20px;
 	color: #0078A3;
 	text-shadow: 2px 2px #005E7F;
 }
