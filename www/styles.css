@@ -1,0 +1,134 @@
+/* NAVIGATION */
+
+.index {
+	padding: 20px;
+	color: #FFAF3A;
+	text-shadow: 2px 2px #FF9400;
+}
+
+header {
+	background-color: white;
+}
+
+h2 {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+a {
+	padding: 5px;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #00A287;
+}
+
+a:visited {
+	color: #0078A3;
+}
+
+/* MAIN */
+
+body {
+	display: flex;
+	flex-direction: column;
+	/*display: block; */
+	background: url("images/pattern.png");
+	
+}
+
+p {
+	font-size: 1.1em;
+	line-height: 20px;
+}
+
+q{
+  font-size: 1.5em;
+  quotes: "\201C""\201D""\2018""\2019";
+  line-height: 1;
+}
+
+ul {
+	line-height: 20px;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	flex: auto;
+	background-color: white;
+}
+
+article {
+	flex: 2;
+	overflow-y: auto;
+}
+
+figure {
+	font-style: italic;
+	text-align: center;
+	font-size: smaller;
+	padding: 20px;
+}
+
+.content-layout {
+
+}
+
+.content-1 {
+	flex: 1;
+	
+}
+
+.align-left {
+	float: left; 
+	margin: 0px 15px 15px 0px;
+}
+
+.content-2 {
+	flex: 1;
+}
+
+.content-3 {
+	flex: 1;
+}
+
+aside {
+	flex: 1;
+	overflow-y: auto;
+}
+
+
+footer {
+	background-color: white;
+}
+
+/* GAMES-DEVS */
+
+.games-devs {
+	padding: 20px;
+	color: #00A287;
+	text-shadow: 2px 2px #006B59;
+}
+
+.games-links {
+	color: #000000;
+}
+
+/* BUILD-INDIE */
+
+.build-indie {
+	padding: 20px;
+	color: #FF6038;
+	text-shadow: 2px 2px #A63E24;
+}
+
+/* CHATTER */
+
+.tweets {
+	padding: 20px;
+	color: #0078A3;
+	text-shadow: 2px 2px #005E7F;
+}
+
