@@ -85,6 +85,14 @@ figure {
 	flex: 1;
 }
 
+.content-4 {
+	flex: 1;
+}
+
+.content-5 {
+	flex: 1;
+}
+
 aside {
 	flex: 1;
 	overflow-y: auto;
