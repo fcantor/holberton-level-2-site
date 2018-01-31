@@ -32,7 +32,6 @@ a:visited {
 body {
 	display: flex;
 	flex-direction: column;
-	/*display: block; */
 	background: url("images/pattern.png");
 	
 }
